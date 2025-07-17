@@ -1,0 +1,18 @@
+table{
+    background-color: rgb(205, 201, 209);
+    margin: auto;
+    width: 90%;
+}
+thead{
+    background-color: rgb(164, 231, 231);
+}
+tbody{
+    background-color: rgb(148, 148, 206);
+}
+table thead tr:nth-child(2){
+   background-color: rgb(185, 156, 120);
+}
+td,th{
+    padding:10px;
+    text-align: center;
+}
